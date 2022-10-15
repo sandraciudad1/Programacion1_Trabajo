@@ -1,1 +1,1 @@
-# Programacion1_Lab
+# Repositorio laboratorio Fundamentos de la Programación 1
