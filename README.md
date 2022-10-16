@@ -1,1 +1,1 @@
-# Repositorio laboratorio Fundamentos de la Programación 1
+# Repositorio para el trabajo de Fundamentos de la Programación 1
